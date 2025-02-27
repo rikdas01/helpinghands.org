@@ -233,6 +233,9 @@ background-color:rgb(251, 206, 28);
 #cat .cat .card .card-cont p{
  text-align:left;
 } 
+#cat .cat .card .card-cont p:hover{
+ color:lightgreen;
+}
 #footer{
  margin-top:80px;
  height:580px;
